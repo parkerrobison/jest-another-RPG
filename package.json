@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/parkerrobison/jest-another-RPG#readme",
   "dependencies": {
+    "inquirer": "^7.3.0",
     "jest": "^26.1.0",
     "save-dev": "0.0.1-security"
   }
